@@ -2,9 +2,6 @@ package me.ederign.xml.jaxb;
 
 import static org.junit.Assert.assertEquals;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import javax.xml.bind.JAXBException;
 
 import me.ederign.beans.Student;

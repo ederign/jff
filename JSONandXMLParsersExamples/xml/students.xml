@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <students>
-    <student>
+    <dorinha>
         <email>me@ederign.me</email>
         <firstName>Eder</firstName>
         <lastName>Ignatowicz</lastName>
         <phone>696969</phone>
-    </student>
-    <student>
+    </dorinha>
+    <dorinha>
         <email>me@ederign.me</email>
         <firstName>Eder2</firstName>
         <lastName>Ignatowicz2</lastName>
         <phone>696969</phone>
-    </student>
+    </dorinha>
 </students>

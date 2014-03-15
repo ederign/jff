@@ -1,4 +1,4 @@
-package me.ederign.beans;
+package me.ederign;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Students {
 
-	@XmlElement(name = "dorinha")
+	@XmlElement(name = "student")
 	private List<Student> students = new ArrayList<Student>();
 
 	public List<Student> getStudents() {
