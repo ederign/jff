@@ -1,4 +1,4 @@
-package me.ederign.xml.jaxb;
+package me.ederign.beans;
 
 import java.util.ArrayList;
 import java.util.List;

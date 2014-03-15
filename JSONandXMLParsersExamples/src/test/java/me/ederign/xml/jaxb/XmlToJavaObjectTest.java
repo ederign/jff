@@ -7,6 +7,9 @@ import java.util.List;
 
 import javax.xml.bind.JAXBException;
 
+import me.ederign.beans.Student;
+import me.ederign.beans.Students;
+
 import org.junit.Test;
 
 public class XmlToJavaObjectTest {

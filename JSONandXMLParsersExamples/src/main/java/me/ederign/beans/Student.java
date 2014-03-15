@@ -1,4 +1,4 @@
-package me.ederign.xml.jaxb;
+package me.ederign.beans;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
