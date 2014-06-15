@@ -35,7 +35,7 @@ public class UserAverageTest {
     }
 
     private static void newJavaWay() {
-        double average = users.parallelStream().map(u -> u.age).average().getAsDouble();
+        double average = users.parallelStream().map(u -> u.age).count();
 
         System.out.println("NEWWAY Average User Age: " + average);
     }
