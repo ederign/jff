@@ -48,7 +48,7 @@ public class Java8Streams {
         System.out.println( "Sum of all prime numbers : " + stats.getSum() );
         System.out.println( "Average of all prime numbers : " + stats.getAverage() );
 
-     
+
 
     }
 }
