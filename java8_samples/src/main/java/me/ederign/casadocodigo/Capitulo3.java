@@ -47,7 +47,7 @@ public class Capitulo3 {
         Validador<String> validadorCep2 = valor -> valor.matches( "[0-9]{5}-[0-9]{3}" );
 
         final int numero  = 5;
-        
+
 
 
     }
