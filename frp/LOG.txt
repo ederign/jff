@@ -1,0 +1,18 @@
+08-12-2014
+
+http://reactivex.io/tutorials.html -> https://gist.github.com/staltz/868e7e9bc2a7b8c1f754:
+
+
+The introduction to Reactive Programming you've been missing
+------------------------------------------------------------
+(by @andrestaltz)
+
+Demo and tutorial: http://jsfiddle.net/staltz/8jFJH/48/
+
+Read and watch: http://colintheshots.com/blog/?p=85 (watch until 27')
+
+
+
+Think about: http://www.pluralsight.com/courses/reactive-programming-java-8-rxjava
+
+
