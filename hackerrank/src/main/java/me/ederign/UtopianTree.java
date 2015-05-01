@@ -15,16 +15,16 @@ public class UtopianTree {
     }
 
     public int calculate() {
-        while ( stillHasCycles() ) {
+        while ( stillHasGrowingCycles() ) {
             springCycle();
-            if ( stillHasCycles() ) {
+            if ( stillHasGrowingCycles() ) {
                 summerCycle();
             }
         }
         return currentHeight;
     }
 
-    private boolean stillHasCycles() {
+    private boolean stillHasGrowingCycles() {
         return cycles > 0;
     }
 
