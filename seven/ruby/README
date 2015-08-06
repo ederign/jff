@@ -1,0 +1,33 @@
+Ruby 
+
+Day 1
+======
+
+Find:
+
+Ruby API - http://ruby-doc.org/core-2.2.2/
+
+Programming Ruby: The Pragmatic Programmers Guide - http://ruby-doc.com/docs/ProgrammingRuby/
+
+A method that substitutes part of a String
+1.9.3-p484 :004 > "Eder".sub! 'd', 'D'
+ => "EDer"
+
+Information about Ruby's regular expression
+http://rubular.com/
+http://www.tutorialspoint.com/ruby/ruby_regular_expressions.htm
+
+Information about Ruby's ranges
+1.9.3-p484 :006 > (1..10).to_a
+ => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+
+Do:
+
+print the String
+1.9.3-p484 :007 > puts "Hello World"
+Hello World
+ => nil
+
+
+
